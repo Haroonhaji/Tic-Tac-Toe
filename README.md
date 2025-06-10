@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
 This is a console-based Tic-Tac-Toe game written in C++. Players X and O take turns selecting positions on a 3x3 grid. The game includes input validation, turn-based mechanics, and automatic win condition checking
